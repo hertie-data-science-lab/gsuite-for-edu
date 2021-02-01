@@ -2,6 +2,8 @@
 <b><a href="#office-hour-appointment-slots">Office Hour Appointment Slots</a></b>
 |
 <b><a href="#google-classroom">Google Classroom</a></b>
+|
+<b><a href="#unlimited-google-drive">Unlimited Google Drive Storage</a></b>
 </p>
 
 
@@ -59,3 +61,7 @@ The meeting will also be updated automatically in your Microsoft Teams calendar.
 ## Google Classroom
 
 You can also use Google Classroom just as a Moodle course page (to be updated).
+
+## Unlimited Google Drive Storage
+
+(to be updated).
