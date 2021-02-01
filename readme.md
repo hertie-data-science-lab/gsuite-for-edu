@@ -53,8 +53,8 @@ Clicking on the appointment slot, you can see who has signed up, what their issu
 
 The meeting will also be updated automatically in your Microsoft Teams calendar.
 
-![image](./assets/appointment/10.png)
 ![image](./assets/appointment/11.png)
+![image](./assets/appointment/12.png)
 
 ### Google Classroom
 
