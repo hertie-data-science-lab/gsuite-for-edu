@@ -9,11 +9,11 @@
 
 G Suite for Education is a suite of free Google tools and services that are tailored for instructors and students. It is different from the usual Google services in that G Suite for Education does not collect students and instructors' data for advertising purposes. There is no indexing of files stored on G Suite and it is in compliance with all data protection and privacy laws. There are many different premium services in the package and we will highlight and continuously update some potential use for the Hertie School here.
 
-### Office Hour Appointment Slots
+## Office Hour Appointment Slots
 
 You can set up an easy and automated office hour appointment system with Google Calendar. To use, please go to https://calendar.google.com/ and sign into the account with your Hertie credentials. 
 
-## Instructor's View
+### Instructor's View
 
 You can create a time block for your office hour as seen below, and specifying the duration of each appointment slots. To make it a repeated time block, please click on More Options. 
 
@@ -27,7 +27,7 @@ After saving the time block, there will be a link named This calendar's appointm
 
 ![image](./assets/appointment/3.png)
 
-## Students' View
+### Students' View
 
 Below is the students' view of the available office hour slots. They can choose to sign up for the time that is suitable for them. 
 
@@ -41,7 +41,7 @@ After they have saved the slot, it will disappear from the available office hour
 
 ![image](./assets/appointment/8.png)
 
-## Instructor's View
+### Instructor's View
 
 After the students have signed up for the slots, if you check your calendar, you can see the sign-up. 
 
@@ -56,6 +56,6 @@ The meeting will also be updated automatically in your Microsoft Teams calendar.
 ![image](./assets/appointment/11.png)
 ![image](./assets/appointment/12.png)
 
-### Google Classroom
+## Google Classroom
 
 You can also use Google Classroom just as a Moodle course page (to be updated).
